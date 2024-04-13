@@ -1,8 +1,6 @@
 # html-css-parser
 this is a python tool that you give it an url and it go and save the html and css data to an .txt file enjoy!
 
-# Simple-DDos
-This is a simple python ddos code for just see how an packet sends to an server enjoy!
 
 
  <h1 align="center"> Discord : 357r</h1>
